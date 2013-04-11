@@ -8,4 +8,3 @@ This is the first committed change.
 
 And this is the second one.
 
-And the last one.
