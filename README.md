@@ -6,5 +6,4 @@ Build configuration name: "OTA"
 
 This is the first committed change.
 
-And this is the second one.
 
